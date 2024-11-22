@@ -1,0 +1,20 @@
+Player Name : vidya
+Played Date : Sun Nov 03 18:38:56 2024
+Score : 0
+___________________________________________________
+Player Name : vidya
+Played Date : Sun Nov 03 18:40:11 2024
+Score : 1
+___________________________________________________
+Player Name : vid
+Played Date : Mon Nov 04 15:04:58 2024
+Score : 2
+___________________________________________________
+Player Name : vid
+Played Date : Sat Nov 09 13:50:31 2024
+Score : 4
+___________________________________________________
+Player Name : srividya
+Played Date : Sat Nov 09 22:32:36 2024
+Score : 6
+___________________________________________________
